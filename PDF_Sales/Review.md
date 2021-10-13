@@ -1,4 +1,5 @@
-#Pasring PDF Python
+# Pasring PDF Python
+
 Проект по парсингу ПДФ.
 
 PDF_Sales: Ищет два слова: начало и конец. И все данные между ними.
